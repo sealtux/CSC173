@@ -26,7 +26,7 @@ I trained a classifier using pretrained MobileNetV2 with its original layers fro
 
 I also tested the transfer learning model on a new ballpen photo that was not included in the dataset. The model correctly classified it as a ballpen with a displayed confidence of 100%.
 
-## 5. Tools and Assistance
+## 4. Tools and Assistance
 
 - **Google Colab:** Used to execute the notebook.
 - **Python, TensorFlow/Keras, NumPy, Matplotlib, and Pillow:** Used for image processing, model training, and visualization.
